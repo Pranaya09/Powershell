@@ -1,3 +1,3 @@
 ﻿echo "Hello TeamCity"
  echo "Free"
-echo "new"
+echo "new world"
