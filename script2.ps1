@@ -1,2 +1,2 @@
-﻿echo "Hello TeamCity1234"
+﻿echo "Hello kotlin"
 
